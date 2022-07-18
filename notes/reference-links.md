@@ -20,4 +20,6 @@
 ## Responsive Web Design
 
 - [Responsive Web Design (RWD) and User Experience](https://www.nngroup.com/articles/responsive-web-design-definition/)
-- []()
+- [Responsive Web Design - What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+- [web.dev: Learn Responsive Design](https://web.dev/learn/design/)
+- [Responsive Design: Best Practices and Considerations](https://www.toptal.com/designers/responsive/responsive-design-best-practices)
