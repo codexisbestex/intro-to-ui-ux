@@ -1,0 +1,23 @@
+# Reference Links
+
+## Wireframing
+
+- [I ♥ wireframes](https://wireframes.tumblr.com/)
+- [Beginner's Guide to Wireframing for Website Design](https://www.flux-academy.com/blog/beginners-guide-to-wireframing-for-website-design)
+- [The Definitive Guide: How to Make Your Wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+- [9 Inspiring Website and App Wireframe Examples](https://careerfoundry.com/en/blog/ux-design/website-app-wireframe-examples/)
+- [Jazz Burger UX Case Study](https://www.behance.net/gallery/96626977/Jazz-Burger-UX-case-study)
+- [Wireframing for beginners](https://uxmastery.com/wireframing-for-beginners/)
+- [Web Design Tutorial: Getting Started with Wireframes](https://www.codementor.io/@nicolesaidy/getting-started-with-wireframes-du107vuh7)
+- [A Beginner's Guide to Wireframing](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)
+
+## ARIA
+
+- [Learning ARIA through the worst coded form input of all time](https://www.youtube.com/watch?v=bFs-9H3fOdU)
+- [web.dev Accessibility Audit Info Guides](https://web.dev/lighthouse-accessibility/)
+- [web.dev ARIA Intro](https://web.dev/semantics-aria/)
+
+## Responsive Web Design
+
+- [Responsive Web Design (RWD) and User Experience](https://www.nngroup.com/articles/responsive-web-design-definition/)
+- []()
