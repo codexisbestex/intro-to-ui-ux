@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-24T03:54:47.131Z" agent="5.0 (Windows)" etag="e9Euzu9kcMEDNYTovJ0r" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-24T03:59:10.677Z" agent="5.0 (Windows)" etag="YAbvKwpuom0C_0we0yaI" version="20.2.0" type="github">
   <diagram id="ucgjUhnDQa5SGMW_fr5M" name="Page-1">
     <mxGraphModel dx="1102" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -436,11 +436,26 @@
             <mxPoint x="630" y="3590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UweCwtg-1GHJ3pwzeEOw-333" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="UweCwtg-1GHJ3pwzeEOw-333" value="" style="rounded=0;html=1;fontSize=14;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry y="3810" width="850" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UweCwtg-1GHJ3pwzeEOw-334" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="370" y="1150" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UweCwtg-1GHJ3pwzeEOw-335" value="&lt;div align=&quot;left&quot;&gt;Crisis description here with resource link&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3855" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UweCwtg-1GHJ3pwzeEOw-336" value="MHA Logo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="495" y="3850" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UweCwtg-1GHJ3pwzeEOw-337" value="Secure Logo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="3850" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UweCwtg-1GHJ3pwzeEOw-338" value="ISMHO Logo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="700" y="3850" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UweCwtg-1GHJ3pwzeEOw-339" value="Footer Section" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry y="4000" width="850" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
