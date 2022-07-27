@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T22:29:04.414Z" agent="5.0 (Windows)" etag="AY9DHNz6qP2c1gJg5Jf2" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T22:44:03.536Z" agent="5.0 (Windows)" etag="t9W1Fi1DlcVt7asxZJca" version="20.2.0" type="github">
   <diagram id="ucgjUhnDQa5SGMW_fr5M" name="Page-1">
     <mxGraphModel dx="1102" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -368,7 +368,7 @@
           <mxGeometry x="700" y="3850" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UweCwtg-1GHJ3pwzeEOw-339" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry y="4000" width="850" height="110" as="geometry" />
+          <mxGeometry y="4000" width="1030" height="110" as="geometry" />
         </mxCell>
         <mxCell id="62AjUZdmmrSbvBc8VWHY-21" value="BetterHelp Copyright Logo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="4040" width="150" height="30" as="geometry" />
@@ -566,10 +566,10 @@
           <mxGeometry x="810" y="4010" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kKlnabCdprITmkO9I2X8-9" value="P" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="4050" width="30" height="30" as="geometry" />
+          <mxGeometry x="850" y="4010" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kKlnabCdprITmkO9I2X8-11" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Twitter&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="4050" width="30" height="30" as="geometry" />
+          <mxGeometry x="890" y="4010" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kKlnabCdprITmkO9I2X8-12" value="BG Color- Pale Grey" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="20" y="3990" width="60" height="30" as="geometry" />
