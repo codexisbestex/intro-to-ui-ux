@@ -25,3 +25,6 @@
 - [Responsive Web Design - What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - [web.dev: Learn Responsive Design](https://web.dev/learn/design/)
 - [Responsive Design: Best Practices and Considerations](https://www.toptal.com/designers/responsive/responsive-design-best-practices)
+- [Breakpoints for Responsive Web Design](https://www.browserstack.com/guide/responsive-design-breakpoints)
+- [Using media queries - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+- [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
