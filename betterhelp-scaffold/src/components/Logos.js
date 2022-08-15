@@ -1,4 +1,4 @@
-export default function BetterHelpLogos(props) {
+export default function Logos(props) {
   <section>
     <div className="column is-1">
       <figure className="image is-5by3"></figure>
