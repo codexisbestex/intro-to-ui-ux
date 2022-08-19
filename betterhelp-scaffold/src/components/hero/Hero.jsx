@@ -35,10 +35,5 @@ export default function Hero() {
 
       <div className="hero-foot">Hero Foot</div>
     </section>
-    // <main>
-    //   <Hero />
-    //   <Logos />
-    //   <p>Show everything please</p>
-    // </main>
   );
 }
