@@ -1,4 +1,17 @@
-.container {
-  justify-content: center;
+.centered-logos {
+  display: flex;
   align-items: center;
+
+  img {
+    filter: grayscale(1);
+    transition: all 0.25s ease-in-out;
+
+    &:hover {
+      filter: grayscale(0);
+    }
+
+    &:not(:last-child) {
+      margin-right: 1rem;
+    }
+  }
 }

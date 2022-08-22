@@ -3,7 +3,7 @@ export default function Logos() {
     <section className="section">
       <div className="container">
         <div className="columns is-centered">
-          <div className="column is-narrow">
+          <div className="column is-narrow centered-logos">
             <img
               src={"../src/assets/company-logos/logo_mha-629462166.jpg"}
               height="100"
