@@ -6,49 +6,65 @@ export default function Therapists() {
           Professional, licensed, and vetted therapists who you can trust
         </h1>
         <div className="columns">
-          <div className="column therapist-row">
-            <figure className="image is-128x128">
-              <img
-                class="is-rounded"
-                src="../src/assets/therapist-images/avatar-1.jpg"
-              />
-            </figure>
-            <figure className="image is-128x128">
-              <img
-                class="is-rounded"
-                src="../src/assets/therapist-images/avatar-2.jpg"
-              />
-            </figure>
-            <figure className="image is-128x128">
-              <img
-                class="is-rounded"
-                src="../src/assets/therapist-images/avatar-3.jpg"
-              />
-            </figure>
-            <figure className="image is-128x128">
-              <img
-                class="is-rounded"
-                src="../src/assets/therapist-images/avatar-4.jpg"
-              />
-            </figure>
-            <figure className="image is-128x128">
-              <img
-                class="is-rounded"
-                src="../src/assets/therapist-images/avatar-5.jpg"
-              />
-            </figure>
-            <figure className="image is-128x128">
-              <img
-                class="is-rounded"
-                src="../src/assets/therapist-images/avatar-6.jpg"
-              />
-            </figure>
-            <figure className="image is-128x128">
-              <img
-                class="is-rounded"
-                src="../src/assets/therapist-images/avatar-7.jpg"
-              />
-            </figure>
+          <div className="column is-8 is-offset-2">
+            <div className="columns is-gapless therapist-row">
+              <div className="column">
+                <figure className="image">
+                  <img
+                    class="is-rounded"
+                    src="../src/assets/therapist-images/avatar-1.jpg"
+                  />
+                </figure>
+              </div>
+              <div className="column">
+                <figure className="image">
+                  <img
+                    class="is-rounded"
+                    src="../src/assets/therapist-images/avatar-2.jpg"
+                  />
+                </figure>
+              </div>
+              <div className="column">
+                <figure className="image">
+                  <img
+                    class="is-rounded"
+                    src="../src/assets/therapist-images/avatar-3.jpg"
+                  />
+                </figure>
+              </div>
+              <div className="column">
+                <figure className="image">
+                  <img
+                    class="is-rounded"
+                    src="../src/assets/therapist-images/avatar-4.jpg"
+                  />
+                </figure>
+              </div>
+              <div className="column">
+                <figure className="image">
+                  <img
+                    class="is-rounded"
+                    src="../src/assets/therapist-images/avatar-5.jpg"
+                  />
+                </figure>
+              </div>
+              <div className="column">
+                <figure className="image">
+                  <img
+                    class="is-rounded"
+                    src="../src/assets/therapist-images/avatar-6.jpg"
+                  />
+                </figure>
+              </div>
+              <div className="column">
+                <figure className="image">
+                  <img
+                    class="is-rounded"
+                    src="../src/assets/therapist-images/avatar-7.jpg"
+                  />
+                </figure>
+              </div>
+            </div>
           </div>
         </div>
         <p>
@@ -59,7 +75,7 @@ export default function Therapists() {
           would expect from an in-office therapist, but with the ability to
           communicate when and how you want.
         </p>
-        <button className="button is-success is-outlined ">
+        <button className="button is-success is-outlined">
           Get matched to a therapist
         </button>
       </div>
