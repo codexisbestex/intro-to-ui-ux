@@ -2,7 +2,7 @@ export default function Therapists() {
   return (
     <section className="section therapist-section">
       <div className="container has-text-centered">
-        <h1 class="title title-text">
+        <h1 class="title">
           Professional, licensed, and vetted therapists who you can trust
         </h1>
         <div className="columns">
@@ -51,7 +51,7 @@ export default function Therapists() {
             </figure>
           </div>
         </div>
-        <p className="p-text">
+        <p>
           Tap into the world's largest network of licensed, accredited, and
           experienced therapists who can help you with a range of issues
           including depression, anxiety, relationships, trauma, grief, and more.
