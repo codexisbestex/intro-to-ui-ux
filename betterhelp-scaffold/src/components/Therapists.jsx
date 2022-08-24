@@ -6,7 +6,7 @@ export default function Therapists() {
           Professional, licensed, and vetted therapists who you can trust
         </h1>
         <div className="columns">
-          <div className="column is-narrow-desktop therapist-row">
+          <div className="column therapist-row">
             <figure className="image is-128x128">
               <img
                 class="is-rounded"
