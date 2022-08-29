@@ -9,21 +9,15 @@ p {
 .therapist {
   &-row {
     .column {
-      background-color: goldenrod;
       margin-left: -12px;
     }
 
-    figure {
-      background-color: hotpink;
-    }
-
     img {
-      // margin: -10px;
       border: 2px solid white;
     }
   }
   &-section {
-    background-color: green;
+    background-color: #6aa371;
 
     .column {
       height: 100%;
